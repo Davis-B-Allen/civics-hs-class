@@ -3,7 +3,7 @@
 Collaborators:
 - [Davis Allen](https://github.com/Davis-B-Allen)
 - [Alexander Duus](https://github.com/alexanderduus)
--
+- [Jingyu Sui](https://github.com/JingyuSui)
 - (add more here by editing the README.md file in the [github repo (gh-pages branch)](https://github.com/Davis-B-Allen/civics-hs-class/tree/gh-pages); )
 
 ## Motivation

@@ -1,16 +1,34 @@
-# [Nomic Civics High School Class](https://davis-b-allen.github.io/civics-hs-class/)
+# [Nomic Civics High School Class](https://github.com/Davis-B-Allen/civics-hs-class)
 
-Collaborators: [Davis Allen](https://github.com/Davis-B-Allen),
+Collaborators:
+- [Davis Allen](https://github.com/Davis-B-Allen)
+- 
+-
+- (add more here by editing the README.md file in the [github repo (gh-pages branch)](https://github.com/Davis-B-Allen/civics-hs-class/tree/gh-pages); )
 
 ## Motivation
 
-Hackettstown High School has discontinued their civics class because not enough students were interested in taking it. This is sad. Civics is important (see: the shit happening in America right now (and, China for that matter)). But it should also be fun. Democratic, creative collaboration toward a common exciting goal should be fun.
+Hackettstown High School has discontinued their civics class because not enough students were interested in taking it. This is sad. Civics is important (see: the shit happening in America right now (and, China for that matter)). But it should also be fun. Democratic, creative collaboration toward a common, exciting goal should be fun.
 
 ## Objectives (in increasing order of ambition)
 
 - (Meta) Have fun
 - (Meta) Creatively collaborate
 - (Meta) Learn something
+- (Meta) Make something we're proud of
+- Design a high school class (i.e. the set of materials necessary for a teacher to teach a class) on civics, subject to the design goals and constraints below
+- Run the class at Hackettstown High school
+- Share the class freely and openly for any teacher to make use of
+- Share the class in such a way that it is easy for other teachers to contribute their own ideas back to improve the class
+- Maintain the shared class, incorporating insightful feedback from other teachers as they provide it
+
+## Design Goals and Constraints
+
+For the students:
+- Fun, democratic, creative collaboration toward a common, exciting goal (learning about civics)
+
+For the teachers:
+- Must be easy enough to manage the students who are participating in a: *Fun, democratic, creative collaboration toward a common, exciting goal (learning about civics)*
 
 
 

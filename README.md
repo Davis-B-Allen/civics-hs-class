@@ -16,6 +16,7 @@ Hackettstown High School has discontinued their civics class because not enough 
 - (Meta) Creatively collaborate
 - (Meta) Learn something
 - (Meta) Make something we're proud of
+- Employ the UbD template to conceptualize the course [UbD template](https://www.d.umn.edu/~hrallis/courses/3204sp05/assignments/ubd_template.htm)
 - Design a high school class (i.e. the set of materials necessary for a teacher to teach a class) on civics, subject to the design goals and constraints below
 - Run the class at Hackettstown High school
 - Share the class freely and openly for any teacher to make use of

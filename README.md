@@ -1,4 +1,24 @@
-# Nomic Civics High School Class
+# [Nomic Civics High School Class](https://davis-b-allen.github.io/civics-hs-class/)
+
+Collaborators: [Davis Allen](https://github.com/Davis-B-Allen),
+
+## Motivation
+
+Hackettstown High School has discontinued their civics class because not enough students were interested in taking it. This is sad. Civics is important (see: the shit happening in America right now (and, China for that matter)). But it should also be fun. Democratic, creative collaboration toward a common exciting goal should be fun.
+
+## Objectives (in increasing order of ambition)
+
+- (Meta) Have fun
+- (Meta) Creatively collaborate
+- (Meta) Learn something
+
+
+
+
+
+
+
+## Initial Concept (old)
 
 - Concept for a High School Civics Elective Class
 - "Democracy should not just be something you read about, it should be something you *do*."
@@ -36,13 +56,13 @@ For the nomic-based units, the "syllabus" (e.g. the nomic document with the rule
 	- If necessary, some of the final rules can suggest that the students have the power to create offices / committees to organize themselves toward their goal
 	- Goal is for students to start organizing themselves, to teach themselves about the subject of the unit, and deliver on the CLASS ASSIGNMENT
 
-## Unit 1: Democracy, and Direct Democracy (nomic-based)
+### Unit 1: Democracy, and Direct Democracy (nomic-based)
 
 - Subject of unit: Democracy, and Direct Democracy
 - rules allow students to raise their hands, teacher calls on students at his/her discretion, students suggest rule changes, then ALL students vote yea/nay with equal weight... (i.e. rules are structured so we start with a flat, direct democracy)
 - We could also have some initial material on "what is democracy?", "what is civics?", etc. or we could just allow students to form their own impressions on this through the process of playing this democratic game and learning.
 
-## Unit 2: Voting systems (for electing a single person to a single office)
+### Unit 2: Voting systems (for electing a single person to a single office)
 
 - Start by letting the students know that they're going to vote on the one student who best exemplified democratic spirit and service to community during Unit 1. Imagine it like a presidential election (although, since the teacher is the executive, perhaps more like a vice-presidential "election.")
 - Hold the vote with fptp/winner-take-all
@@ -55,7 +75,7 @@ For the nomic-based units, the "syllabus" (e.g. the nomic document with the rule
 - Hold one or two further votes (by RCV / some Condorcet method), see if they yield different results than FPTP; thus, up to three different students get a gold star sticker or whatever (whatever you're supposed to do to symbolically reward students). Maybe have "inauguration" parties for them, or let them make a "presidential acceptance speech" or some sort of certificate materials included in the course kit, or whatever.
 - Maybe the student(s) who win(s) can work with the teacher for one out-of-class period to make suggestions about future units
 
-## Unit 3: Representative Democracy (nomic-based)
+### Unit 3: Representative Democracy (nomic-based)
 
 - Subject of unit: Representative Democracy
 - rules require students to start by voting for several class "representatives." Students should now have a sense (after Unit 1) of which classmates of theirs are likely to make the best representatives, so no need for a "campaign."
@@ -65,7 +85,7 @@ For the nomic-based units, the "syllabus" (e.g. the nomic document with the rule
 - The CLASS ASSIGNMENT for this unit is the same (from the template at top: class presentation). The initial groups and their representatives perhaps lend natural initial structure for students to form different "committees" to tackle different parts of the assignment, but, once again, this is all up to them through these nomic rules
 - initial rules can define several more recurring "representative" elections throughout the duration of the unit (but, these rules can, of course, be changed by the students)
 
-## Unit 4: Voting systems (for multi-member bodies, like a legislature)
+### Unit 4: Voting systems (for multi-member bodies, like a legislature)
 
 - Run a final "representative" election by the rules of Unit 3, and note the winners
 - Now, we're going to learn about the different ways in which we can elect a group of representatives from a larger population:
@@ -76,7 +96,7 @@ For the nomic-based units, the "syllabus" (e.g. the nomic document with the rule
 	- MMP
 - This, like with Unit 2, is more conventional teaching/lecturing/readings, with more conventional assessments (quizzes, homeworks etc.)
 
-## Unit 5: Gerrymandering (not nomic-based, but hopefully fun and active)
+### Unit 5: Gerrymandering (not nomic-based, but hopefully fun and active)
 
 - Finally, at the end of the unit: we're going to look at one particular problem of FPTP in single member districts: gerrymandering
 - Divide the students into two even "teams" (i.e. parties), and tell them to remember their parties. Give each party a trivial ideology (e.g. one party is the Coke party and the other is the Pepsi party, or something. Choose something non-controversial). Now you're going to divide the students up into several "districts." Gerrymander the districts so that one team will win outright. (In the course materials for teachers, we can provide sheets for how to do this with any number of students)
@@ -86,7 +106,7 @@ For the nomic-based units, the "syllabus" (e.g. the nomic document with the rule
 				- Make sure students note that the number of Coke voters vs pepsi voters didn't change, but the outcome did, based on the way the teacher grouped the students. If the teacher gets to decide the districts, they can decide the election
 					- don't mention american politics
 
-## Unit 6: American system of government
+### Unit 6: American system of government
 
 - Typical civics class fodder. Constitution. Amendments. Laws. 3 Branches of govt (executive, legislative, judicial). checks and balances. etc. etc. etc. However, we can make frequent references back to everything the students have learned thus far, and we can point out the ways in which the American system differs from many (and, in some respects, most) other governments around the world
 - This is not a class on American Government. It is not an American History class. It is a class on civics and participatory democracy.
@@ -95,7 +115,7 @@ For the nomic-based units, the "syllabus" (e.g. the nomic document with the rule
 - contrasts with other countries:
 	- We're one of the few that does FPTP w/ SMD. We have separate, quite powerful executive (in contrast with parliamentary systems. students may notice that they're sort of like the legislature, and the teacher is sort of like the executive+judicial/supreme court in one, and is much more powerful than the students). etc.
 
-## Unit 7: Liquid Democracy and more modern democratic innovations (open-source governance?) (nomic-based)
+### Unit 7: Liquid Democracy and more modern democratic innovations (open-source governance?) (nomic-based)
 
 - Subject of unit: Liquid Democracy (AKA Delegative democracy)
 - rules for this nomic unit implement liquid democracy with some technology. Voting can happen in class, but there is also "homework" in a sense, in that the students can keep playing the nomic outside of class (need some app or web platform that implements the delegative democracy)
@@ -103,13 +123,13 @@ For the nomic-based units, the "syllabus" (e.g. the nomic document with the rule
 - In this unit, the nomic game is played in digital form, with some web app that would need to be developed). During class, it seems likely that all students would participate in the voting. But students can carry on the game outside of class, though it is not compulsory
 - In this unit students are trying to produce a presentation on delegative democracy and other interesting innovations in democracy
 
-## Unit 8: Review + Context, Scale, Social Contract
+### Unit 8: Review + Context, Scale, Social Contract
 
 - For all the nomic-based, participatory, civics-education-as-civics-practice stuff the students have done throughout this course, it's time to place it in context and talk big-picture about what this means for them as they become adults: as members of communities, as citizens of their country, etc. Make the distinction between opt-in communities and inescapable communities (i.e. societies that you're born into and can't easily get out of independently - like the USA, if you're a US citizen). Discuss social contract.
 - How do democratic systems scale as the community they govern grows larger? (e.g. Direct vs. Representative vs. Delegative democracy, and what value these have when we're talking about hundreds/thousands/millions/hundreds of millions of people, rather than 30 students in a classroom).
 - Can discuss technology and the future, review some of the interesting stuff the kids have hopefully found in Unit 7 (stuff that the teacher may not have even been aware of). This could be a more open discussion with the class, otherwise the teacher would presumably have to assemble insights on short notice, based on the class' work.
 
-## Unit 9: Self-directed (nomic-based)
+### Unit 9: Self-directed (nomic-based)
 
 Subject of unit: open-ended
 - In this unit, we start with rules that are pretty much the basic direct-democracy unit rules (i.e. rule changing is limited, by default, to the classroom). We might suggest that the students can move to the online platform and use the liquid democracy rules if they want, but they'd need to change the rules to this by a majority vote in the classroom (under the initial direct-democracy rules.)
@@ -118,7 +138,7 @@ Subject of unit: open-ended
 - the only assessment / grading rule will be that the teacher will grade them collectively, as a class, on this basis (whether he/she thinks the class has made something they're proud of, and which is appropriate to the topic of the course)
 - Finally,
 
-## Unit 10: Meta (nomic-based)
+### Unit 10: Meta (nomic-based)
 
 - The class now must provide feedback on how to make this civics course better.
 - The meta-objective here is to improve on the course materials so that future classes can have an even better experience with the course
